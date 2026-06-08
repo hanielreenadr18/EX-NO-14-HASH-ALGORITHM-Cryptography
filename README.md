@@ -1,4 +1,6 @@
 # EX-NO-14-HASH-ALGORITHM
+## NAME: HANIEL REENA D R
+## REG.NO: 2305001008
 
 ## AIM:
 To implement HASH ALGORITHM
@@ -72,6 +74,7 @@ int main() {
 
 ## Output:
 
+<img width="644" height="289" alt="image" src="https://github.com/user-attachments/assets/751395a6-b657-4ded-8d3a-8aebad5ea1c5" />
 
 ## Result:
 The program is executed successfully.
